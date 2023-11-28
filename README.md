@@ -1,1 +1,1 @@
-# landig-page-template
+# landing-page-template
